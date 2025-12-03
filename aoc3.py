@@ -1,0 +1,1 @@
+data = [map(int, line) for line in open('input.txt').readlines()]
